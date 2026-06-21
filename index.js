@@ -3,7 +3,3 @@ const name = "om_j";
 const dob = '12/12/3031'
 
 const address = "Space";
-
-function isFn(){
-    console.log("i add fun");
-}
