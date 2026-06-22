@@ -7,3 +7,7 @@ const address = "Space";
 function newBranchadd(){
     console.log("i add new branch name test_br");
 }
+
+if(true){
+    console.log("get high");
+}
