@@ -32,7 +32,7 @@ const SendAutoE = (to) => (subject) => (body) =>
 // suppose we have 3 person for each task
  button.addEventListener('click',()=>{
     let person1 = SendAutoE("jonsnow@gmail.com");
-       let person2 = person1(" Winter is comming");
+    let person2 = person1(" Winter is comming");
        person2("Night king come close | prepred for war | ");
  });
 
